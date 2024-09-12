@@ -1,7 +1,7 @@
 ## Please fill in all the parts labeled as ### YOUR CODE HERE
 
 import numpy as np
-import pytest
+import pytest 
 from utils import dot_product
 from utils import cosine_similarity
 from utils import nearest_neighbor
